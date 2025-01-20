@@ -1,6 +1,6 @@
-# Edward's README
+# Edward(Aries)'s README
 
-My name's Edward and I'm an experienced Ruby on Rails Developer. This README provides a quick overview of me and how I work.  
+My name's Edward Chang, although I usually go by Aries. I am an experienced Ruby on Rails Developer. This README provides a quick overview of me and how I work.  
 
 ## About me
 
